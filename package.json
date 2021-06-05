@@ -1,0 +1,16 @@
+{
+  "name": "bmiCalculator",
+  "version": "1.0.0",
+  "description": "BMI Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
